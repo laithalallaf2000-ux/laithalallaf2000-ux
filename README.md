@@ -13,6 +13,20 @@ nobody drew, the way it behaves when someone turns motion off.
 
 ---
 
+## Flow2Repo — AI screens to React repo
+
+Design a dashboard or website with AI, drop the HTML in, download a clean React + TypeScript project.
+
+[Live](https://flow2repo.laithalallaf.com) · [Code](https://github.com/laithalallaf2000-ux/flow2repo)
+
+Designed and built end to end, open source (MIT). The parts I care about:
+
+- **Deterministic, no AI at conversion time.** Two fixed prompts tell the AI how to mark up its design, so the same file always gives the same project.
+- **Real React, not pasted HTML.** Screens become routed pages, repeated parts become shared components with props, cards and rows become typed data with `.map()`, forms and menus get real state.
+- **Tested on real designs.** 13 designs must install, type-check and build on every push.
+
+---
+
 ### Maison Élan — Tennis Stories
 
 A tennis film studio's site: editorial typography, scroll-driven motion, and a build that
