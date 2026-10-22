@@ -7,6 +7,8 @@ nobody drew, the way it behaves when someone turns motion off.
 **Open to design engineering roles and freelance work.**
 [laithalallaf2000@gmail.com](mailto:laithalallaf2000@gmail.com)
 
+**Portfolio:** [laithalallaf.com](https://laithalallaf.com)
+
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `GSAP` · `Motion` · `Vite`
 
 ---
